@@ -1,0 +1,13 @@
+"../parser_testcases/total.cl", line 130: syntax error at or near TYPEID = F
+"../parser_testcases/total.cl", line 136: syntax error at or near TYPEID = Y
+"../parser_testcases/total.cl", line 145: syntax error at or near OBJECTID = goodbye
+"../parser_testcases/total.cl", line 160: syntax error at or near ';'
+"../parser_testcases/total.cl", line 160: syntax error at or near FI
+"../parser_testcases/total.cl", line 181: syntax error at or near OBJECTID = extends
+"../parser_testcases/total.cl", line 190: syntax error at or near OBJECTID = implements
+"../parser_testcases/total.cl", line 206: syntax error at or near OBJECTID = b
+"../parser_testcases/total.cl", line 210: syntax error at or near OBJECTID = test
+"../parser_testcases/total.cl", line 212: syntax error at or near ELSE
+"../parser_testcases/total.cl", line 226: syntax error at or near LOOP
+"../parser_testcases/total.cl", line 227: syntax error at or near INT_CONST = 1
+Compilation halted due to lex and parse errors

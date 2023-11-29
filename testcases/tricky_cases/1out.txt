@@ -1,0 +1,3 @@
+"./note.test", line 2: syntax error at or near OBJECTID = int
+"./note.test", line 2: syntax error at or near INT_CONST = 20
+Compilation halted due to lex and parse errors

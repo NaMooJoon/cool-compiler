@@ -1,0 +1,62 @@
+Class Main is not defined.
+./arithprecedence.cl:3: Undeclared identifier a.
+./arithprecedence.cl:3: Undeclared identifier b.
+./arithprecedence.cl:3: non-Int arguments: Object + Object
+./arithprecedence.cl:3: Undeclared identifier c.
+./arithprecedence.cl:3: non-Int arguments: Int - Object
+./arithprecedence.cl:4: Undeclared identifier a.
+./arithprecedence.cl:4: Undeclared identifier b.
+./arithprecedence.cl:4: non-Int arguments: Object - Object
+./arithprecedence.cl:4: Undeclared identifier c.
+./arithprecedence.cl:4: non-Int arguments: Int + Object
+./arithprecedence.cl:6: Undeclared identifier a.
+./arithprecedence.cl:6: Undeclared identifier b.
+./arithprecedence.cl:6: Undeclared identifier c.
+./arithprecedence.cl:6: non-Int arguments: Object * Object
+./arithprecedence.cl:6: non-Int arguments: Object + Int
+./arithprecedence.cl:7: Undeclared identifier a.
+./arithprecedence.cl:7: Undeclared identifier b.
+./arithprecedence.cl:7: non-Int arguments: Object * Object
+./arithprecedence.cl:7: Undeclared identifier c.
+./arithprecedence.cl:7: non-Int arguments: Int + Object
+./arithprecedence.cl:9: Undeclared identifier a.
+./arithprecedence.cl:9: Undeclared identifier b.
+./arithprecedence.cl:9: Undeclared identifier c.
+./arithprecedence.cl:9: non-Int arguments: Object / Object
+./arithprecedence.cl:9: non-Int arguments: Object + Int
+./arithprecedence.cl:10: Undeclared identifier a.
+./arithprecedence.cl:10: Undeclared identifier b.
+./arithprecedence.cl:10: non-Int arguments: Object / Object
+./arithprecedence.cl:10: Undeclared identifier c.
+./arithprecedence.cl:10: non-Int arguments: Int + Object
+./arithprecedence.cl:12: Undeclared identifier a.
+./arithprecedence.cl:12: Undeclared identifier b.
+./arithprecedence.cl:12: Undeclared identifier c.
+./arithprecedence.cl:12: non-Int arguments: Object * Object
+./arithprecedence.cl:12: non-Int arguments: Object - Int
+./arithprecedence.cl:13: Undeclared identifier a.
+./arithprecedence.cl:13: Undeclared identifier b.
+./arithprecedence.cl:13: non-Int arguments: Object * Object
+./arithprecedence.cl:13: Undeclared identifier c.
+./arithprecedence.cl:13: non-Int arguments: Int - Object
+./arithprecedence.cl:15: Undeclared identifier a.
+./arithprecedence.cl:15: Undeclared identifier b.
+./arithprecedence.cl:15: Undeclared identifier c.
+./arithprecedence.cl:15: non-Int arguments: Object / Object
+./arithprecedence.cl:15: non-Int arguments: Object - Int
+./arithprecedence.cl:16: Undeclared identifier a.
+./arithprecedence.cl:16: Undeclared identifier b.
+./arithprecedence.cl:16: non-Int arguments: Object / Object
+./arithprecedence.cl:16: Undeclared identifier c.
+./arithprecedence.cl:16: non-Int arguments: Int - Object
+./arithprecedence.cl:18: Undeclared identifier a.
+./arithprecedence.cl:18: Undeclared identifier b.
+./arithprecedence.cl:18: non-Int arguments: Object * Object
+./arithprecedence.cl:18: Undeclared identifier c.
+./arithprecedence.cl:18: non-Int arguments: Int / Object
+./arithprecedence.cl:19: Undeclared identifier a.
+./arithprecedence.cl:19: Undeclared identifier b.
+./arithprecedence.cl:19: non-Int arguments: Object / Object
+./arithprecedence.cl:19: Undeclared identifier c.
+./arithprecedence.cl:19: non-Int arguments: Int * Object
+Compilation halted due to static semantic errors.

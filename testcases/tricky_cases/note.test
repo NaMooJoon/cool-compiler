@@ -1,0 +1,6 @@
+class A {
+		foo: int <- {10; 20;};
+		 boo(x: Int, y: Int): Int {
+			x + y
+		 };
+};
